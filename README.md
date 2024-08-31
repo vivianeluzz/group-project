@@ -1,1 +1,3 @@
-# group-project
+# Projeto prático em ADS
+# Group Project
+
